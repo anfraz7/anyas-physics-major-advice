@@ -10,7 +10,7 @@ Most graduate school applications ask for three letters of recommendation. In mo
 
 ### who should write me a recommendation letter?
 
-Here is how I go about choosing letter writers. There is no one right way to go about it, and the rules are easily broken. For example, a professor with whom you have a great connection from office hours is better than a PHYS 332 professor you don’t know very well. The most important rule is to choose people who will write you _strong_ letters of recommendation.
+Here is how I go about choosing letter writers. There is no one right way to go about it. The most important rule is to choose people who will write you _strong_ letters of recommendation.
 
 Some ground rules:
 
