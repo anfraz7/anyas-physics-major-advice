@@ -14,9 +14,9 @@ Here is how I go about choosing letter writers. There is no one right way to go 
 
 Some ground rules:
 
-_Rule 1_: Your letter writers should have a PhD in a related field.
-_Rule 2_: Your letter writers should be able to pick you out by name in a classroom full of students.
-_Rule 3_: When asking for a letter, ask if the writer is willing to write you a strong letter of recommendation. You want to avoid a lukewarm letter, and certainly don’t want a weak letter.
+_Rule 1_: Your letter writers should have a PhD in a related field.  
+_Rule 2_: Your letter writers should be able to pick you out by name in a classroom full of students.  
+_Rule 3_: When asking for a letter, ask if the writer is willing to write you a _strong_ letter of recommendation. You want to avoid a _lukewarm_ letter, and certainly don’t want a _weak_ letter.
 
 The best letter writers are typically **research advisors under whom you have conducted independent research** (PHYS 295/395 or equivalent, honors thesis, REU, etc.). If your research advisor (PI) doesn't know your work very well, ask a graduate student or postdoc that you work with if they would be willing to help your PI write a letter---but it's important that the letter be submitted by your PI.
 
@@ -24,7 +24,7 @@ The best letter writers are typically **research advisors under whom you have co
 
 Lastly, **professors with whom you have engaged _extensively_ in office hours** can also write great letters. Even (or even particularly) if you didn't get a good grade in the class, they can say a lot about your character and curiosity.
 
-If you need to ask a professor that doesn't fall into any of these three categories, you will have to do a bit more leg work. For example, maybe you request to meet with the professor before they agree to write you a letter to give them a short presentation on an independent research project you did, and how it relates to what you learned in their class.
+If you need to ask a professor that doesn't fall into these categories or something equivalent, you will have to do a bit more leg work. For example, maybe you request to meet with the professor before they agree to write you a letter to give them a short presentation on an independent research project you did, and how it relates to what you learned in their class.
 
 # communicating with letter writers
 
