@@ -43,7 +43,7 @@ A few schools I applied to offered fee waivers to students who had completed an 
 
 ### attend an admissions event
 
-Many schools give out fee waivers for attending online admissions events. These happen early in the fall semester, so be on the lookout early!
+Many schools give out fee waivers for attending online admissions events. The events may not necessarily advertise that they will hand out fee waivers at the end. These happen early in the fall semester, so be on the lookout early!
 
 ### attend a grad school fair at a conference or university
 
