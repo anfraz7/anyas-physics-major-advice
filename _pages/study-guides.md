@@ -78,7 +78,7 @@ study guide
 **textbook:** Griffiths, _Introduction to Quantum Mechanics_  
 **made:** Spring 2024  
 **notes:** Loosely covers chapters 1-6, but was created based on lectures rather than the textbook. The first half of this study guide is less detailed than the later ones and mainly states topics we needed to know for the exam, but the second half contains more in-depth notes.  
-**errata:** On page 7, the expression for the raising/lowering operator applied to an orbital angular momentum state should include l, rather than s.
+**erratum:** On page 7, the expression for the raising/lowering operator applied to an orbital angular momentum state should include l, rather than s.
 
 [full study guide](https://drive.google.com/file/d/1lwlfyQPRIPsiDzX9gHcU_r-2HHDwSems/view?usp=drive_link)
 
