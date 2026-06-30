@@ -29,6 +29,10 @@ Schools:
 - Rutgers
 - University of Wisconsin–Madison
 
+### ostem/queer in ai fee waivers
+
+[This program](https://www.queerinai.com/grad-app-aid) says they give up to $750 per person to queer students applying for grad school. The deadline for last year was November 3, and they say they respond within a week of your application. I heard about it from a friend so I don't have any firsthand experience on how selective the application is.
+
 ### fee waivers for demonstrated financial need
 
 Many schools will allow you to apply for a fee waivers for some sort of demonstrated need. See specific programs for details, and don't wait until the last day to submit your application.
