@@ -35,7 +35,7 @@ Schools:
 
 ### fee waivers for demonstrated financial need
 
-Many schools will allow you to apply for a fee waivers for some sort of demonstrated need. See specific programs for details, and don't wait until the last day to submit your application.
+Many schools will allow you to apply for a fee waivers for some sort of demonstrated need, defined differently at each university. See specific programs for details, and don't wait until the last day to submit your application.
 
 # network for a fee waiver
 
