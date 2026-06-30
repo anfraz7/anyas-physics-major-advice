@@ -39,7 +39,15 @@ As you can see in the section above, there are many _many_ ways to fill two (or 
 
 In this section, I'd like to share some of the application details that got me into my own summer research programs. Positions like REUs and SULIs are highly competitive, and there's no surefire way of putting together an application that will get you into one. That said, here are some tips that I think will make you a strong applicant.
 
-### identifying programs you are competitive for
+### identifying programs to apply for
+
+There are many places to look for summer research programs. For starters, the physics majors canvas page will often list a few REUs per year. I think those are a great place to start because programs that reach out to the UNC physics department are likely to accept students from R1 universities. From there, I would start looking through:
+
+- [NSF ETAP](https://etap.nsf.gov/) website: an application portal that many REUs or other NSF programs choose to use
+- [List of REUs](https://www.nsf.gov/funding/initiatives/reu/search) on NSF website: counterintuitively, this isn't actually the most up-to-date site but it does list a lot of REUs
+- Google! Search for specific topics or sub-topics, or search for specific schools, or anything else you would like.
+
+My goal for the summer after my sophomore year was to do research abroad, so I did a lot of googling to find different international programs. For example, [here](https://physics.stanford.edu/undergraduate/undergraduate-research/research-opportunities-outside-stanford) is a great Stanford list of international programs that I found very useful.
 
 When applying to summer programs, I was very intentional about finding out what types of students different programs accepted and targeting programs I felt I was competitive for. Not every program looks for the same type of student. For example, many REUs (but not all, and not to the same extent) aim to support students who don't have access to certain types of research at their home universities or who are underrepresented minorities in their field. I have found lots of success from REUs gaining materials science research experience that I could not have gotten at UNC and connecting with other gender minorities in research. Programs like DOE SULIs, on the other hand, often look for the more traditionally experienced student who has enough research experience to be immediately more productive in the lab. Understanding the goals of different programs will help you both come up with a good list and tailor your applications to fit their search. Some questions to consider include:
 
@@ -47,7 +55,7 @@ When applying to summer programs, I was very intentional about finding out what 
 - Does the program typically accept students from R1 universities like UNC?
 - Does the program state a focus on certain demographics? For example, some REUs I applied to clearly made an effort to promote women in physics which led to some great experiences in female-dominated spaces that I wouldn't otherwise have had. But, they might not be the right program to apply to if you don't fit the demographic.
 
-Identifying suitable programs was particularly important during my freshman year. I only applied to programs that stated explicitly that they accepted freshman or that showed on their website that they had accepted freshman in the past.
+Identifying programs that I was competitive for was particularly important during my freshman year. I only applied to programs that stated explicitly that they accepted freshman or that showed on their website that they had accepted freshman in the past.
 
 ### cv
 
