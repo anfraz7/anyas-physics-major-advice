@@ -33,9 +33,11 @@ Schools:
 
 [This program](https://www.queerinai.com/grad-app-aid) says they give up to $750 per person to queer students applying for grad school. The deadline for last year was November 3, and they say they respond within a week of your application. I heard about it from a friend so I don't have any firsthand experience on how selective the application is.
 
-### fee waivers for demonstrated financial need
+### school-specific fee waivers
 
 Many schools will allow you to apply for a fee waivers for some sort of demonstrated need, defined differently at each university. See specific programs for details, and don't wait until the last day to submit your application.
+
+A few schools I applied to offered fee waivers to students who had completed an REU, so I got some fee waivers this way. I reached out to the program director of my last REU to get a signed certificate of completion for applications that required proof.
 
 # network for a fee waiver
 
