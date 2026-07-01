@@ -13,7 +13,7 @@ I know super duper successful applicants who had email conversations with profes
 
 I linked my friend Rachel’s PhD guide in the Introduction tab. She emailed every professor that she applied to work with in August, and found great success with that. So if you’re interested, take a look at her guide!
 
-In my case, I chose to email a few professors right before or after I submitted my applications, to get my name on their radar and reiterate that I was interested in their group specifically. I also networked with a Duke professor during a UNC colloquium, which I talk about later on in this section. I genuinely have no idea how much my networking helped with my grad school applications.
+In my case, I chose to email a few professors right before or after I submitted my applications, to get my name on their radar and reiterate that I was interested in their group specifically. I also networked with a Duke professor during a UNC colloquium, which I talk about later on in this section. Because my networking was a little lackluster, I genuinely have no idea how much it helped with my grad school applications.
 
 # emailing professors
 
@@ -48,7 +48,7 @@ _To a professor who requested all interested students email her. I emailed her s
 > 
 > Thank you for your time. 
 > 
-> Best,
+> Best,  
 > Anya
 > 
 > **Anya Frazer**  
