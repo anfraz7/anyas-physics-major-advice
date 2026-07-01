@@ -48,7 +48,7 @@ _As soon as I could_
 - Statement of purpose
 - Research proposals for fellowships I applied for
 
-Some letters may ask for these materials and some may not. _Even if they don't ask_, send them your CV and statement of purpose. They are helping you out by writing this letter, and providing your application materials makes their life easier and shows them that you are invested in helping them help you.
+Some letter writers may ask for these materials and some may not. _Even if they don't ask_, send them your CV and statement of purpose. They are helping you out by writing this letter, and providing your application materials makes their life easier and shows them that you are invested in helping them help you.
 
 ### what should I do if I am worried my letter writer might not submit on time?
 
