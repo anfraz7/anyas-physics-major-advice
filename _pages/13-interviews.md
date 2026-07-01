@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "interviews"
+title: "online interviews"
 parent: "applying for grad school"
 ---
 
 Not all PhD programs require interviews. I only had one online interview, for a program which I was ultimately waitlisted from. Honestly it was a great interview though, I rather enjoyed it :)
+
+For my section on in-person interviews, go to the "campus visits" tab.
 
 # how to prepare for an interview
 
