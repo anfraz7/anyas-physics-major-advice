@@ -6,7 +6,7 @@ parent: "applying for grad school"
 
 This page is specifically about prestigious international fellowships like the Rhodes, Marshall, Churchill, Fulbright, etc. If you're interested in applying to a fellowship like these, the UNC Office of Distinguished Scholarships (ODS) will be your best friend. The application process is intense and really really competitive. That being said, you definitely won’t get it if you don’t apply, and I found the application process an extremely valuable experience in itself. 
 
-### Applying is not always worth it
+### applying is not always worth it
 
 These are highly competitive and time-intensive and often put a lot more emphasis on grades than PhD applications do. Most successful applicants will have a 4.0. I don’t want to discourage anyone from applying---I was discouraged from applying but am glad I chose to anyways. But, these are time intensive applications that can take away from time you might be putting into more realistic applications like the GRFP or grad schools, so pick your bets wisely.
 
@@ -17,7 +17,7 @@ No matter what, you must schedule an appointment with ODS during your junior yea
 I applied to the Churchill Scholarship and was ultimately unsuccessful. However, it was a very intense process and I learned a LOT, so I’ve included a lil blog post reflecting on it below. Hopefully by sharing this I can demonstrate that there are some pretty cool international connections out there just waiting to be made.
 
 
-### My experience applying to the Churchill Scholarship
+### my experience applying to the churchill scholarship
 
 The Churchill Scholarship funds a small cohort of US students to pursue a one year research-based masters degree (MPhil) at the University of Cambridge in the UK. The program covers tuition, fees, and airfare, and provides a living stipend for the year. The MPhil is not typically a funded degree, so this is one of the few options available to fund it.
 
