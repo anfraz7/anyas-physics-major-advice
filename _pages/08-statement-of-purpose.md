@@ -4,7 +4,7 @@ title: "statement of purpose"
 parent: "applying for grad school"
 ---
 
-The Statement of Purpose (SOP) is the workhorse essay of your application. The goal of the SOP, in my opinion, is to show the reader that you are an accomplished independent thinker that will flourish under the unstructured rigor of a PhD thesis. You can show this by highlighting your independent contributions and thought process in each research project (or semester-long class project, etc.) that you have completed. Don’t just tell them what you did (or even worse, what your colleagues did!), show them that you think like a scientist. 
+The Statement of Purpose (SOP) is the workhorse essay of your application. The goal of the SOP, in my opinion, is to show the reader that you are an accomplished independent thinker that will flourish under the unstructured rigor of a PhD thesis. You can show this by highlighting your independent contributions and thought process in each research project (or semester-long class project, etc.) that you have completed. Don’t just tell them what you did (or even worse, what your colleagues did!), show them that you _think like a scientist_. 
 
 This is also an important place to demonstrate that you have clear career goals that motivate you to complete a PhD. You aren’t just applying to PhD programs because all your friends are, or because you don’t know what else to do with a Physics B.S. You have specific career goals that will inspire you to finish out your PhD, instead of dropping out when the going gets rough.
 
@@ -12,20 +12,20 @@ I have described down below what I take to be the elements of a good SOP, in the
 
 # general guidelines
 
-- Every sentence should say something unique about you.
+- Every sentence should say something unique about _you_.
 - Avoid vague sentiments or statements that should be a given for someone pursuing a PhD. 
   - “I have always been fascinated by materials science.” → “I am drawn to materials science because it is a fundamental science with direct impacts on the energy problems our country faces today.” (Don’t steal that it’s my opening sentence….)
-  - “Following my PhD I plan to stay in academia.” → “Following my PhD I plan to harness a theory-driven design sequence with experimental collaborators, informing their synthesis goals while continuously improving my computational methods.”
 - Use strong verbs that emphasize your independent thought.
   - “I hypothesized [X] and confirmed my hypothesis with [Y]”
   - “I designed…”
 - Don’t be afraid to make strong claims about your research philosophy.
+  - "I believe..."
 
 # elements of a statement of purpose
 
 ### 1. introduction
 
-Figuring out how to start your SOP is a process. You can take it in literally so many different directions. My only piece of advice is a total cliche: don’t spend your whole first paragraph talking about how “I’ve been fascinated by physics ever since I was a little kid…” ! The admissions committee wants to know who you are _now_ and what your unique _adult_ career passions are, not your elementary school fascinations. If you feel your elementary school fascinations are relevant to your current career goals, show that very explicitly.
+You can take the introduction for an SOP in literally so many different directions. A general piece of advice: make sure you talk about who you are _now_ and what your _adult_ career passions are, and don't fall into the trap of how you've wanted to pursue a PhD since you were in elementary school. That can be part of your story, but it's also weirdly common for people applying to Physics PhDs to have wanted to since they were 10. Not that I can relate or anything... The point is, even if you do talk about wanting to pursue a Physics PhD since you were a kid try to make the point of the paragraph be something that makes you stand out as an applicant _now_.
 
 I used my first paragraph to develop two ideas: (1) I love materials science because it is both fundamental physics but also heavily relevant for sustainability applications; and (2) I believe that computational materials science will be a critical component of sustainable materials development in the coming years and I want to be a part of that.
 
