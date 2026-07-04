@@ -58,7 +58,8 @@ That said, it’s important to stay in contact with your letter writers about du
 
 - The initial email telling the letter writer about the deadline
 - A reminder ~1 week before the application is due
-- A reminder a few days before, the day before, then the morning of the deadline...then maybe a little nudge in the afternoon if they didn't respond to the morning email
+- A reminder a few days before the application is due
+- A reminder the day before, then the morning of the deadline...then maybe a little nudge in the afternoon if they didn't respond to the morning email
 
 I have found that professors have appreciated this in the past.
 
