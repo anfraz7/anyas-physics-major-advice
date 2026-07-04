@@ -4,7 +4,7 @@ title: "picking programs to apply for"
 parent: "applying for grad school"
 ---
 
-Picking what PhD programs to apply for is an incredibly personal process. I think one of the most important parts is continuously talking with people who know you like research advisors, friends, and family members. You also have to decide what you want your life to look like after your PhD, and how you want your PhD to get you there. My goal for this section is to share my own experience to help you figure out where to start, not provide a start-to-finish guide.
+Picking what PhD programs to apply for is an incredibly personal process. I think one of the most important parts is continuously talking with people who know you like research advisors, friends, and family members. All of these people can help you figure out what you want your life to look like _after_ your PhD, and how you want your PhD to get you there. My goal for this section is to share my own experience to help you figure out where to start, not provide a start-to-finish guide.
 
 ### factors to consider
 
