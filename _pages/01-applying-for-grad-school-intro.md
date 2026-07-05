@@ -10,6 +10,8 @@ My name is Anya, and I graduated from UNC with a B.S. in Physics and B.A. in Mus
 
 Also, I’d like to share my friend [Rachel’s excellent PhD application guide](https://white3792.github.io/rachels-complete-guide-to-graduate-school-applications/). She’s the boss!
 
+[Here's](https://www.reddit.com/r/gradadmissions/comments/k746bz/grad_application_advice_for_anyone_that_might/?context=3) another good application guide, from someone one reddit whom I do not know!
+
 # disclaimer
 
 This guide documents what I learned from my own application process and those of my friends. There are millions of paths to grad school and I only know a few. For proper guidance on how to develop your own personal path to grad school, a professor/mentor that has helped many diverse successful applicants will have far more personalized advice. What I _can_ help with is the experience of navigating the process as a student in 2026: little-known UNC resources, managing your timeline, communicating with letter writers, finding fee waivers, cultivating mentors to read over your statement of purpose, etc. I hope I can help bridge this gap and bring a little more ease to someone's application process :)
