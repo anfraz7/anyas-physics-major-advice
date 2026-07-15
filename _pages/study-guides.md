@@ -90,9 +90,8 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 **made:** Spring 2024  
 **notes:** Study guide follows lectures rather than textbook. 
 
-[simple harmonic motion]  
-[lagrangians]  
-[orbits, non-inertial reference frames, moment of inertia, coupled oscillations]
+[simple harmonic motion](https://drive.google.com/file/d/1TLE-YT4qbYPhKduJ2g-9H7M-c9NvdRtW/view?usp=drive_link)  
+[lagrangians, orbits, non-inertial reference frames, moment of inertia, coupled oscillations](https://drive.google.com/file/d/1a9wZXSOco4RqTkApSw5OvYo6tYLYJqFA/view?usp=drive_link)
 
 **course name:** Calculus-Based Physics I: Mechanics  
 **institution and course number:** Mix of AP Physics C and self-study  
