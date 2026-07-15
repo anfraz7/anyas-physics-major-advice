@@ -20,11 +20,11 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 **made:** Spring 2026  
 **notes**: Covers the chapters below, but not the whole course (which covers all of Kittel).
 
-Chapter 1:  
-Chapter 2:  
-Chapter 3:  
-Chapter 8:  
-Chapter 9:  
+[crystal structure + reciprocal lattice, chapters 1-2](https://drive.google.com/file/d/1ZqmFAVf6tJ42WRKGUCSMpe4zFmrKFGU1/view?usp=drive_link)  
+[crystal binding, chapter 3](https://drive.google.com/file/d/1PYrUYlZHeHV3N9xgkKB_fRpnDhsQf7-B/view?usp=drive_link)  
+[semiconductors, chapter 8](https://drive.google.com/file/d/1Z5hEUc94v_gA75ibHPPBL1U2BGZtsjx9/view?usp=drive_link)  
+[superconductors, chapter 10](https://drive.google.com/file/d/1fyI7JXNFoPgABKGYBjA2VdLnep7A97TT/view?usp=drive_link)  
+[magnetism, chapter 11 + part of chapter 12](https://drive.google.com/file/d/1g2Q3n_Nfv89b_zjq98XFXlVTH9qnGqat/view?usp=drive_link)
 
 
 **course name:** Electronics I  
@@ -32,15 +32,16 @@ Chapter 9:
 **textbook:** None  
 **made:** Fall 2025
 
-full study guide
+[full study guide](https://drive.google.com/file/d/1BT04E34wCKHAKzs1lkDY8rgtD1E6Z5hs/view?usp=drive_link)
 
 
 **course name:** Thermal Physics  
 **institution and course number:** UNC Chapel Hill, PHYS 441  
 **textbook:** Schroeder, _An Introduction to Thermal Physics_  
-**made:** Fall 2025
+**made:** Fall 2025  
+**notes:** This covers most of the course but it might not cover all, I don't remember for sure.
 
-study guide
+[study guide](https://drive.google.com/file/d/1yu0p2eOGzodHng2XsOEySZtQOb9v6deF/view?usp=drive_link)
 
 
 **course name:** Electromagnetism II  
