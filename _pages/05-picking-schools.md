@@ -18,7 +18,7 @@ Here are some factors that are important to consider when making your list:
 
 ### narrowing down research interests and picking research groups
 
-Everyone I know approached this differently. Here are some different ways to go about narrowing down your research interests and picking groups:
+Everyone I know approached this differently. Here are a few random tidbits I learned from my own journey:
 
 - **If you like the research you're doing now, don't try to fix what ain't broken.** If the idea of continuing the research you're doing now excites you, start there! Ask your current PI to recommend groups at other universities doing similar research, and look into groups that have authored papers in your field.
 - **Google Scholar is your friend.** Most professors don't routinely update their group website, so it's folly to assume that all the research directions stated on there are up-to-date. Their google scholar page will be far more helpful in figuring out what type of studies they are publishing now. Sort publications by date to find the most recent ones. From a PI's google scholar, you can also figure out how often their grad students are publishing first author papers. If you want to go into academia, you usually want a PI who will encourage you to publish a few papers during your PhD so you can gain independence and build your own reputation as a researcher. From a google scholar you can also figure out who PIs often collaborate with, so if you like one research group you can look into their collaborators too.
