@@ -33,7 +33,7 @@ I used my first paragraph to develop two ideas: (1) I love materials science bec
 
 ### 2. research/academic history
 
-This is where you go chronologically through significant research or academic endeavors that you have been involved in undergrad, and use those to paint a story of how you have _thought like a scientist_ through all of them. This can include research experiences, class projects like PHYS 332 or 482L, particularly unique class experiences, etc. It should be clear to the reader how all of these experiences led to your choice to apply for a PhD in your chosen subfield, and made you uniquely qualified for the research you want to do in grad school. 
+This is where you go chronologically through significant research or academic endeavors that you have been involved in undergrad, and use those to paint a story of how you have _thought like a scientist_ through all of them. This can include research experiences, class projects like PHYS 332 or 482L, particularly unique class experiences, etc. It should be clear to the reader how all of these experiences led to your choice to apply for a PhD in your chosen subfield, and made you uniquely qualified for the research you want to do in grad school. It can also be great to show off your research soft skills here: have different experiences taught you the importance of diligent documentation? Have you mentored newer undergraduates in the lab and learned important lessons about effective mentor/mentee communication? All of these are green flags to potential PIs!
 
 The SOP is not the time to…
 
@@ -47,7 +47,7 @@ The SOP is the time to…
 - Push yourself to talk about the work you have done in ways that initially feel boastful or uncomfortable.*
 - Use strong verbs to take ownership of your actions in the lab.
 
-*In no way do I mean you should lie or exaggerate on your SOP. However, I have noticed in myself and my friends that we all have a tendency to feel _reeeeeally_ uncomfortable about taking any sort of ownership for our work in the lab, since our research has of course been enabled by so many amazing research mentors. My experience is that writing out plainly and truthfully my research contributions without mentioning my mentors initially felt almost like lying. I encourage you to push yourself to reach this point of discomfort. The reader knows that undergraduate research is supported by a village, but they want to hear about _you_.
+*In no way do I mean you should lie or exaggerate on your SOP. However, writing about undergrad research experiences can be hard because it is often tinted by imposter syndrome. As an undergrad surrounded by grad students who know so much more than you and can solve research problems in a week that took you the whole semester, sometimes the urge to emphasize how humble a role you had in a lab can be overwhelming. I initially found that writing out plainly and truthfully my research contributions without mentioning my mentors initially felt almost like lying. I encourage you to push yourself to reach this point of discomfort. The reader knows that undergraduate research is a steep learning curve supported by a village, but they want to hear about _you_. And if you developed some cool ways to climb up that steep learning curve, write about those strategies you developed, not the fact that the learning curve was steep.
 
 ### 3. why this school?
 
