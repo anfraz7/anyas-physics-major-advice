@@ -114,7 +114,7 @@ These are the times that I stuck to my timeline that I think paid off the most.
       <li>Make a good working list of what schools and fellowships you want to apply to.</li>
       <li>Schedule a meeting with your mentor to talk through your school and fellowship list. If your mentor has a background in the field you are interested in then they can be super helpful in suggesting schools/groups to look into. If not, that’s totally okay—that’s the boat I was in! Your mentor can still help you talk through potential schools.</li>
       <li>Reach out to three people whom you want to write letters for you to confirm they are willing.</li>
-      <li>(Optional) The summer can be a great time to start writing your statement of purpose or NSF GRFP proposal, if you are applying. Identifying a research question can take a lot of time and literature review!</li>
+      <li>(Optional) The summer can be a great time to get some first drafts of your statement of purpose, personal statement, or (if you are applying) NSF GRFP proposal. In particular, identifying a research question for your GRFP proposal can take a lot of time and literature review!</li>
       <li>(Optional) Start emailing professors you may be interested in working with for your PhD. This can establish some critical connections with professors that may have otherwise seen your application as just one in a sea of many highly qualified applicants.</li>
     </ul>
   </div>
