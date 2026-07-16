@@ -29,6 +29,14 @@ On the other hand, I had professors that I emailed two days before submitting my
 
 Note that some professors, particularly at schools that get a lot of applicants, may choose to not respond to any PhD applicant emails.
 
+### what to include in your email
+
+Your goal with your email should be to make the professor extremely interested in responding to you while making your message as short and to-the-point as possible. In that vein, here are a few tips I've collected from successful friends:
+
+- Always include your CV in your email. Without your CV, the professor has no way of deciding if you are worth their time to respond to or not.
+- If you are applying to federal funding like the NSF GRFP, mention that. If you end up winning that funding, you will become a free student.
+- Thank them for their time!
+
 ### example email
 
 _To a professor who requested all interested students email her. I emailed her seven days before the deadline. She responded saying I looked like a competitive applicant and she would read my application. I got an interview offer from her and was ultimately waitlisted._
@@ -55,6 +63,8 @@ _To a professor who requested all interested students email her. I emailed her s
 > _University of North Carolina at Chapel Hill  
 > Department of Physics and Astronomy  
 > Class of 2026_  
+
+Again, Rachel's guide that I linked in the introduction has a great template.
 
 # connecting in person
 
