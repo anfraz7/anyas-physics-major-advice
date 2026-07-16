@@ -1,4 +1,4 @@
-Hello and welcome to Anya's Little Textbook!
+Hello and welcome to _The Physics Major, By Someone Who Just Did It_.
 
 For those of you who don't know me, my name is Anya and I graduated from UNC in May 2026 with my B.S. in Physics and B.A. in Music. I am now a PhD student in Materials Science and Engineering at UC Berkeley. 
 
