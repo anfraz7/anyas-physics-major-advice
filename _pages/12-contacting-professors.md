@@ -11,7 +11,7 @@ Everyone has a different philosophy on whether you should email research advisor
 
 I know super duper successful applicants who had email conversations with professors at most places that they applied, and I also know super duper successful applicants who never emailed a single professor before applying. Completely up to you. Setting up meetings with professors might be particularly helpful if you worry about your application slipping through the cracks, and it also might help get your name on the radar for fellowships.
 
-I linked my friend Rachel’s PhD guide in the Introduction tab. She emailed every professor that she applied to work with in August, and found great success with that. So if you’re interested, take a look at her guide!
+I linked my friend Rachel’s PhD guide in the Introduction tab which has some great email templates. She emailed every professor that she applied to work with in August, and found great success with that. So if you’re interested, take a look at her guide!
 
 In my case, I chose to email a few professors right before or after I submitted my applications, to get my name on their radar and reiterate that I was interested in their group specifically. I also networked with a Duke professor during a UNC colloquium, which I talk about later on in this section. Because my networking was a little lackluster, I genuinely have no idea how much it helped with my grad school applications.
 
@@ -62,8 +62,6 @@ _To a professor who requested all interested students email her. I emailed her s
 > _University of North Carolina at Chapel Hill  
 > Department of Physics and Astronomy  
 > Class of 2026_  
-
-Again, Rachel's guide that I linked in the introduction has a great template.
 
 # connecting in person
 
