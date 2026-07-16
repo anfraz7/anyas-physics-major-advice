@@ -1,5 +1,5 @@
-title:            the physics major, explained by someone who just did it
-longtitle:        the physics major, explained by someone who just did it
+title:            anya's physics major advice
+longtitle:        anya's physics major advice
 author:           anya
 description: >
   Build Jekyll site with the GitBook style.
@@ -14,7 +14,7 @@ gitbook_version:  3.2.3
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
-baseurl: "/the-physics-major"
+baseurl: "/anyas-physics-major-advice"
 
 collections:
   pages:
