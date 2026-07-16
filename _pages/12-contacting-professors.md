@@ -31,11 +31,10 @@ Note that some professors, particularly at schools that get a lot of applicants,
 
 ### what to include in your email
 
-Your goal with your email should be to make the professor extremely interested in responding to you while making your message as short and to-the-point as possible. In that vein, here are a few tips I've collected from successful friends:
+Two items I've heard it's good to include:
 
-- Always include your CV in your email. Without your CV, the professor has no way of deciding if you are worth their time to respond to or not.
-- If you are applying to federal funding like the NSF GRFP, mention that. If you end up winning that funding, you will become a free student.
-- Thank them for their time!
+- **Your CV**. Without your CV, the professor has no way of deciding if you are worth their time to respond to or not.
+- **Mention if you are applying to federal funding like the NSF GRFP**. If you end up winning that funding, you will become a free student.
 
 ### example email
 
