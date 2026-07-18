@@ -31,7 +31,7 @@ Again, I'm choosing not to share my essay online since I'm using it for a few fe
 
 ### 1. introduction
 
-You can take the introduction for an SOP in literally so many different directions. A general piece of advice: make sure you talk about who you are _now_ and what your _adult_ career passions are, and don't fall into the trap of how you've wanted to pursue a PhD since you were in elementary school. That can be part of your story, but it's also weirdly common for people applying to Physics PhDs to have wanted to since they were 10. Not that I can relate or anything... The point is, even if you do talk about wanting to pursue a Physics PhD since you were a kid try to make the point of the paragraph be something that makes you stand out as an applicant _now_.
+You can take the introduction for an SOP in literally so many different directions. A general piece of advice: make sure you talk about who you are _now_ and what your _adult_ career passions are, and don't fall into the trap of how you've wanted to pursue a PhD since you were in elementary school. That can be part of your story, but it doesn't tell the reader much about what type of graduate student you will be. Even if you do talk about wanting to pursue a Physics PhD since you were a kid, try to make the main point of the paragraph something that makes you stand out as an applicant _now_.
 
 I used my first paragraph to develop two ideas: (1) I love materials science because it is simultaneously the study of fundamental physics and also heavily relevant for sustainability applications; and (2) I believe that computational materials science will be a critical component of sustainable materials development in the coming years and I want to be a part of that.
 
