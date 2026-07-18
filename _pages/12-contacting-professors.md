@@ -27,7 +27,7 @@ If your goal is to establish a connection with a professor, then you’ll have t
 
 On the other hand, I had professors that I emailed two days before submitting my applicating and even the day after submitting my application. In those cases, I was just trying to get my name on their radar and show the professors that I was very interested in their research. I was admitted by some of these professors, but full transparency I have no clue how much the emails helped.
 
-Note that some professors, particularly at schools that get a lot of applicants, may choose to not respond to any PhD applicant emails.
+Note that some professors may choose to not respond to any PhD applicant emails.
 
 ### what to include in your email
 
