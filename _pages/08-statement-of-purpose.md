@@ -26,6 +26,7 @@ Again, I'm choosing not to share my essay online since I'm using it for a few fe
 - "Failures" in the lab make for very good stories.
   - "One **challenge** I faced while [attempting to do X in research] was..." "I **investigated** this issue by..." "To overcome this issue, I **proposed** to our team that we [solution]" "This solution [worked/didn't work/told us something we didn't expect]" etc. etc.
   - "From this experience I **learned**..."
+- If you would like to use this space to explain a part of your application that you feel is low, eg. a low GPA, an illness that affected your ability to do research, etc., I direct you to the article I linked on my "Personal Statement" page and highly recommend you scroll down to the section titled "The 'Upward Trending GPA' Trap." There is a way to do this successfully but it is _vital_ that your SOP paint you a motivated student with demonstrated excellence and not a series of excuses.
 
 # elements of a statement of purpose
 
