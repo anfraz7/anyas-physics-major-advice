@@ -22,7 +22,9 @@ The best letter writers are typically **research advisors under whom you have co
 
 **Professors from project-based classes (PHYS 332, PHYS 482L) that you have _excelled_ in** could also write a good letter if you built a good relationship with them. They should be able to talk about your creativity and independence in leading a technical project, which is directly applicable to a PhD. It could be helpful to resend them the project or paper that you made for their class to refresh their memory on how awesome it was.
 
-Lastly, **professors with whom you have engaged _extensively_ in office hours** can also write great letters. Even (or even particularly) if you didn't get a good grade in the class, they can say a lot about your character and curiosity.
+**Professors with whom you have engaged _extensively_ in office hours** can also write great letters. Even (or even particularly) if you didn't get a good grade in the class, they can say a lot about your character and curiosity.
+
+**Other professors/research scientists with whom you have an equivalent professional relationship** like professors you have TA'd for, collaborated extensively with on outreach projects, etc. can also be strong letter writers. 
 
 If you need to ask a professor that doesn't fall into these categories or something equivalent, you will have to do a bit more leg work. For example, maybe you request to meet with the professor before they agree to write you a letter to give them a short presentation on an independent research project you did, and how it relates to what you learned in their class.
 
@@ -42,6 +44,7 @@ _When asking for the letter_
 _Immediately after they agreed_
 
 - CV
+- Any special instructions for specific applications
 
 _As soon as I could_
 
@@ -49,6 +52,8 @@ _As soon as I could_
 - Research proposals for fellowships I applied for
 
 Some letter writers may ask for these materials and some may not. _Even if they don't ask_, send them your CV and statement of purpose. They are helping you out by writing this letter, and providing your application materials makes their life easier and shows them that you are invested in helping them help you.
+
+Some fellowships may have special instructions on how to write a strong recommendation letter. It's your job to research those instructions and send them to your letter writers. Again, show them that you want to help them help you. 
 
 ### what should I do if I am worried my letter writer might not submit on time?
 
