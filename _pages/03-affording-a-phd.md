@@ -14,4 +14,4 @@ Winning a fellowship is separate from getting into a school, and often requires 
 
 **many application fees can be waived!** 
 
-Don’t let application fees be a barrier to grad school until you’ve done some extensive looking into all your options. The vast majority of schools have a way you can get the fee waived. However, it’s important to start this process EARLY because the closer to the due date you are, the harder it will be to find a fee waiver. (See the “Fee Waivers” tab for more info.)
+Don’t let application fees be a barrier to grad school until you’ve done some extensive looking into all your options. Many schools have a way you can get the fee waived. However, it’s important to start this process EARLY because the closer to the due date you are, the harder it will be to find a fee waiver. (See the “Fee Waivers” tab for more info.)
