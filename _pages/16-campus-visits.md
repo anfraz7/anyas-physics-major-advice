@@ -21,6 +21,8 @@ Even if you are there for an interview, your campus visit is the chance to decid
 
 ### in-person interviews
 
+Firstly, prepare everything that you would for an online interview (read up on their research, prepare questions to ask, etc.)
+
 My personal and secondhand experience with in-person interviews is that if you are invited to interview at a school, that means that you will only be admitted if a professor at the university recommends you for admission. Therefore, your goal for the visit is to make good connections with several professors. It’s super important to email professors you are interested in well in advance of the visit to get your name on their radar and make sure they save you an interview slot. Immediately after the interviews, follow up with all the professors you are still interested in to express gratitude and continued interest.
 
 I know of several professors at UC Berkeley (materials science), including one I interviewed with, that asked students to commit via email the same day of the interview if the professor was our top choice. In my case they just meant top choice at UCB, but in other people’s cases they meant top choice of all schools…..as in, if that professor admitted them then they would commit to UCB immediately. Honestly UCB is the only school I’ve heard of that happening, but I guess it’s an extreme case to illustrate why you should have a clear idea of what research groups you want to join going into an in-person interview.
