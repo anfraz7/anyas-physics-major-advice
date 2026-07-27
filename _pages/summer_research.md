@@ -130,7 +130,7 @@ Although it worked for the director of this program, I think my last paragraph i
 
 Most summer programs require two recommendation letter writers. Both letter writers should be from research advisors or STEM professors/teachers. The only example I know of an exception is my friend who won a DAAD RISE fellowship; this is a research opportunity in Germany, and she used an advanced German language professor as a letter writer. If you are a freshman, I think it's okay to use a high school teacher as a letter writer, but if possible try to find a teacher from an AP or college STEM class; I used a math teacher from a college class that I dual enrolled in as a high schooler. Try your best to make at least one of your letter writers a college professor at UNC. If you are not a freshman, both letter writers should have PhDs and should know you from college, not high school.
 
-I wrote a section on recommendation letter writers in my applying to grad school guide, and I think the same advice applies here. Check that out if you're interested!
+When requesting recommendation letters, I always gave a short explanation of the types of REUs I was applying for and why, then sent my CV once they agreed to write a letter. Some letter writers requested me send over one of my application essays as well, but I didn't send those to profs who didn't ask for them. I wrote a section on recommendation letter writers in my applying to grad school guide, and I think much of the same advice (particularly on how to send reminder emails and manage missed deadlines) applies here. Check that out if you're interested!
 
 ### good luck!
 
