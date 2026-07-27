@@ -96,7 +96,7 @@ I had a habit during undergrad of using exclamation points in my application ess
 
 **notes about the essay**: Although I had no formal research experience, I took advantage of the experiences I _did_ have (high school projects, classes, self-taught coding) and painted a story of why they prepared me to _start_ research at this REU. My third paragraph is definitely the strongest part of the essay.  
 
-Reading this essay now, I sound so young! My second paragraph particularly has a very entertaining run-on sentence that I think everyone reading this could write better, and the "although not in photovoltaics" disclaimer at the end of the second paragraph is amusing. For context I ended up getting my offer from the DFT professor, not the nanophotonics prof. I'm also not entirely clear on what I was saying in my last paragraph. I think this is very good proof that many REUs are looking for enthusiastic young students with lots of _self-motivation_ and _potential_, rather than experience.
+Reading this essay now, I sound so young! My second paragraph particularly has a very entertaining run-on sentence that I think everyone reading this could write better, and the "although not in photovoltaics" disclaimer at the end of the second paragraph is amusing. For context I ended up getting my offer from the DFT professor, not the nanophotonics prof. I'm also not entirely clear on what I was saying in my last paragraph. I think this is very good proof that many REUs are looking for enthusiastic young students with lots of _self-motivation_ and _potential_, rather than experience. I ended up getting two REU offers and one NIST SURF offer with variations of this essay.
 
 
 **Yamagata University PIRE (summer after sophomore year):**
