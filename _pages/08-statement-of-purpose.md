@@ -4,7 +4,7 @@ title: "statement of purpose"
 parent: "applying for grad school"
 ---
 
-The Statement of Purpose (SOP) is the workhorse essay of your application. The goal of the SOP, in my opinion, is to show the reader that you are an accomplished independent thinker that will flourish under the unstructured rigor of a PhD thesis. You can show this by highlighting your independent contributions and thought process in each research project (or semester-long class project, etc.) that you have completed. Don’t just tell them what you did (or even worse, what your colleagues did!), show them that you _think like a scientist_. 
+The Statement of Purpose (SOP) is the workhorse essay of your application. The goal of the SOP, from my experience, is to show the reader that you are an accomplished independent thinker that will flourish under the unstructured rigor of a PhD thesis. You can show this by highlighting your independent contributions and thought process in each research project (or semester-long class project, etc.) that you have completed. Don’t just tell them what you did (or even worse, what your colleagues did!), show them that you _think like a scientist_. 
 
 This is also an important place to demonstrate that you have clear career goals that motivate you to complete a PhD. You aren’t just applying to PhD programs because all your friends are, or because you don’t know what else to do with a Physics B.S. You have specific career goals that will inspire you to finish out your PhD, instead of dropping out when the going gets rough.
 
