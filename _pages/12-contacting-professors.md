@@ -9,7 +9,7 @@ Everyone has a different philosophy on whether you should email research advisor
 - You put your name on their radar, especially if they offer to Zoom with you.
 - They can tell you for sure if they are accepting students this year.
 
-I know super duper successful applicants who had email conversations with professors at most places that they applied, and I also know super duper successful applicants who never emailed a single professor before applying. Completely up to you. Setting up meetings with professors might be particularly helpful if you worry about your application slipping through the cracks, and it also might help get your name on the radar for fellowships.
+I know super duper successful applicants who had email conversations with professors at most places that they applied, and I also know super duper successful applicants who never emailed a single professor before applying. Completely up to you. Emailing professors ahead of time might be particularly helpful if you worry about your application slipping through the cracks, and it also might help get your name on the radar for fellowships.
 
 I linked my friend Rachel’s PhD guide in the Introduction tab which has some great email templates. She emailed every professor that she applied to work with in August, and found great success with that. So if you’re interested, take a look at her guide!
 
