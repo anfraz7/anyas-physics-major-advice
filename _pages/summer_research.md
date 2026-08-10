@@ -107,14 +107,13 @@ Reading this essay now, I sound so young! My second paragraph particularly has a
 > 
 > I am pursuing a secondary major in music at my home institution, which is something that brings me a lot of joy. However, it means that I don’t have time to study abroad during the school year, which drew me to this REU. I studied Japanese for 5 years in middle and high school, and have always dreamed of visiting Japan. Additionally, Yamagata University is an incredible research university with so much innovation going on! The ability to spend my summer exploring both a new research focus and the Yamagata Prefecture would be incredible, and I would be honored to have the opportunity.
 
-**notes about the essay**: This particular program did not list individual professors on its website, so I instead identified the area of research (experimental solar cell work) that I was interested in. I drew from my first REU at Vanderbilt by highlighting experiences that I couldn't show on my CV. For example, I talked about taking advantage of weekly seminars to explore my research interests, exhibiting curiosity and self-motivation. I also used my past experience to paint a narrative of why I wanted to do experimental work this summer.  
+**notes about the essay**: Like I mentioned above, I think this is the weakest of my three essays and I improved my writing for the Penn State REU essay below.
+
+This particular program did not list individual professors on its website, so I instead identified the area of research (experimental solar cell work) that I was interested in. I drew from my first REU at Vanderbilt by highlighting experiences that I couldn't show on my CV. For example, I talked about taking advantage of weekly seminars to explore my research interests, exhibiting curiosity and self-motivation. I also used my past experience to paint a narrative of why I wanted to do experimental work this summer. However, my first paragraph is heavy on lists and name-dropping which interrupts flow.
 
 I think the "I want to work in a bunch of different labs in undergrad to figure out what I want to do in my PhD" line was a little risky, because it could make me sound unfocused/unsure of what I want. If I were to go back I would probably just delete that whole sentence, I think the paragraph would work fine without it.
 
 Although it worked for the director of this program, I think my last paragraph is a little unprofessional. I could have framed it more intentionally about my excitement for gaining an international research perspective, rather than saying I "have always dreamed of visiting Japan." That said, I do think it was a helpful addition to explain to the reader why this summer was my only way to study abroad, and show that I would be equally passionate about research and exploring a new culture during the REU.
-
-I only got into this one summer program with this essay, and I think it's the weakest of my three essays. In addition to my critiques above, the first paragraph is heavy on lists and name-dropping which interrupts flow. Nevertheless, I present the essay here for reference :)
-
 
 **Penn State (summer after junior year):**
 
