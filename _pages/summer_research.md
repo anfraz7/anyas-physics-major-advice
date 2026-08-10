@@ -113,6 +113,8 @@ I think the "I want to work in a bunch of different labs in undergrad to figure 
 
 Although it worked for the director of this program, I think my last paragraph is a little unprofessional. I could have framed it more intentionally about my excitement for gaining an international research perspective, rather than saying I "have always dreamed of visiting Japan." That said, I do think it was a helpful addition to explain to the reader why this summer was my only way to study abroad, and show that I would be equally passionate about research and exploring a new culture during the REU.
 
+I only got into this one summer program with this essay, and I think it's the weakest of my three essays. In addition to my critiques above, the first paragraph is heavy on lists and name-dropping which interrupts flow. Nevertheless, I present the essay here for reference :)
+
 
 **Penn State (summer after junior year):**
 
