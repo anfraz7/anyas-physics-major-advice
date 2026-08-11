@@ -22,9 +22,9 @@ The best letter writers are typically **research advisors under whom you have co
 
 **Professors from project-based classes (PHYS 332, PHYS 482L) that you have _excelled_ in** could also write a good letter if you built a good relationship with them. They should be able to talk about your creativity and independence in leading a technical project, which is directly applicable to a PhD. It could be helpful to resend them the project or paper that you made for their class to refresh their memory on how awesome it was.
 
-**Professors with whom you have engaged _extensively_ in office hours** can also write great letters. Even (or even particularly) if you didn't get a good grade in the class, they can say a lot about your character and curiosity.
+**Other professors/research scientists with whom you have an equivalent professional relationship** like professors you have TA'd for, collaborated extensively with on outreach projects, etc. can also be very strong letter writers.
 
-**Other professors/research scientists with whom you have an equivalent professional relationship** like professors you have TA'd for, collaborated extensively with on outreach projects, etc. can also be strong letter writers. 
+**Professors with whom you have engaged _extensively_ in office hours** can also write good letters. Even (or even particularly) if you didn't get a good grade in the class, they can say a lot about your character and curiosity. 
 
 If you need to ask a professor that doesn't fall into these categories or something equivalent, you will have to do a bit more leg work. For example, maybe you request to meet with the professor before they agree to write you a letter to give them a short presentation on an independent research project you did, and how it relates to what you learned in their class.
 
