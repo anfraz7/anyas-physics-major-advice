@@ -10,6 +10,8 @@ My name is Anya, and I graduated from UNC with a B.S. in Physics and B.A. in Mus
 
 Also, I’d like to share my friend [Rachel’s excellent PhD application guide](https://white3792.github.io/rachels-complete-guide-to-graduate-school-applications/). She’s the boss!
 
+[Here's](https://wittman.physics.ucdavis.edu/gradadvice.html) a very nice application guide from a professor at UC Davis, who explains many aspects of the application process from the application committee's point of view.
+
 [Here's](https://www.reddit.com/r/gradadmissions/comments/k746bz/grad_application_advice_for_anyone_that_might/?context=3) another good application guide, from someone one reddit whom I do not know!
 
 # disclaimer
