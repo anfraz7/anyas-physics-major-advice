@@ -10,7 +10,7 @@ This is also an important place to demonstrate that you have clear career goals 
 
 I have described down below what I take to be the elements of a good SOP, in the order that I put them in my essay. There are of course always many valid ways to write a good SOP but from proofreading other successful SOPs this seems to be pretty standard.
 
-Again, I'm choosing not to share my essay online since I'm using it for a few fellowships next year. I direct you to my friend Rachel's guide that I linked in the introduction for a good SOP example.
+Again, I'm choosing not to share my essay online since I'm using it for a few fellowships next year. I direct you to my friend Rachel's guide that I linked in the introduction for a good SOP example. [This website](https://www.alexhunterlang.com/nsf-fellowship) also has a bunch of NSF GRFP SOP examples, which are a bit longer than the typical PhD SOP but nonetheless helpful. Typically anything under the "Intellectual Merit" section of a GRFP SOP will go in your PhD SOP, while anything in the "Broader Impacts" section will go in your PhD Personal Statement.
 
 # general guidelines
 
