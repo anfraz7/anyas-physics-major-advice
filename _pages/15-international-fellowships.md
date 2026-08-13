@@ -41,7 +41,7 @@ The Churchill Scholarship requires four letters of recommendation (eek!). I reac
 
 I submitted my proposal the morning it was due, then received an email from one of my recommenders requesting to meet to make some suggestions on my proposal which were all very helpful, then implemented those recommendations, emailed ODS, and resubmitted (lol). 
 
-I heard back from ODS a few weeks later letting me know that my application had been unsuccessful, and I was not chosen as one of the endorsed UNC students. I was of course disappointed, but also knew that this was the most likely outcome—Churchill Scholars have some of the most intimidating LinkedIn pages on the planet. But that’s okay! I went in knowing that, and I’m ultimately glad I applied. I got two big benefits out of applying: 
+I heard back from ODS a few weeks later letting me know that my application had been unsuccessful, and I was not chosen as one of the endorsed UNC students. I was of course disappointed, but also knew that this was the most likely outcome. In the end, I was glad I applied. I got two big benefits out of applying: 
 
 Firstly, I gained a lot of confidence in my research abilities and paper-reading skills. I read dozens of papers then wrote a research proposal for a field I had zero experience in, then sent that proposal to a professor at freaking Cambridge. And he didn’t tell me I was stupid!! I have so much more confidence reading papers now then I did before that experience.
 
