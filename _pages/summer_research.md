@@ -55,7 +55,7 @@ When applying to summer programs, I was very intentional about finding out what 
 
 - Does the program typically accept students in your year/with your amount of experience?
 - Does the program typically accept students from R1 universities like UNC?
-- Does the program state a focus on certain demographics? For example, some REUs I applied to clearly made an effort to promote women in physics which led to some great experiences in female-dominated spaces that I wouldn't otherwise have had. But, they might not be the right program to apply to if you don't fit the demographic.
+- Does the program state a focus on certain demographics?
 
 Identifying programs that I was competitive for was particularly important during my freshman year. I only applied to programs that stated explicitly that they accepted freshman or that showed on their website that they had accepted freshman in the past.
 
