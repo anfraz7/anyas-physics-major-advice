@@ -107,7 +107,7 @@ Reading this essay now, I sound so young! My second paragraph particularly has a
 > 
 > I am pursuing a secondary major in music at my home institution, which is something that brings me a lot of joy. However, it means that I don’t have time to study abroad during the school year, which drew me to this REU. I studied Japanese for 5 years in middle and high school, and have always dreamed of visiting Japan. Additionally, Yamagata University is an incredible research university with so much innovation going on! The ability to spend my summer exploring both a new research focus and the Yamagata Prefecture would be incredible, and I would be honored to have the opportunity.
 
-**notes about the essay**: Like I mentioned above, I think this is the weakest of my three essays and I improved my writing for the Penn State REU essay below.
+**notes about the essay**: Like I mentioned above, I think this is the weakest of my three essays and you can see how I improved on it for the Penn State REU essay below.
 
 This particular program did not list individual professors on its website, so I instead identified the area of research (experimental solar cell work) that I was interested in. I drew from my first REU at Vanderbilt by highlighting experiences that I couldn't show on my CV. For example, I talked about taking advantage of weekly seminars to explore my research interests, exhibiting curiosity and self-motivation. I also used my past experience to paint a narrative of why I wanted to do experimental work this summer. However, my first paragraph is heavy on lists and name-dropping which interrupts flow.
 
