@@ -6,14 +6,14 @@ parent: "applying for grad school"
 
 If you’re anything like me, grad school applications can feel super overwhelming. A bit of advice: the more you stick to your schedule, the less overwhelmed you will feel. Don't procrastinate, but be gentle with yourself when you do miss an internal deadline and just calmly get back on track.
 
-This is my take on an application timeline that can afford you the least stress. If you can stick close to a schedule like this then it will strengthen your essays, improve your recommendation letters, increase your chance of fee waivers, and can help you forge important connections with potential research advisors. Try your best! It’ll be a lot of work but it will pay off.
+This is my personal take on an application timeline that can afford you the least stress. Obviously there is no one perfect timeline, and yours may look very different. From my experience, if you can stick close to a schedule like this then it will strengthen your essays, improve your recommendation letters, increase your chance of fee waivers, and can help you forge important connections with potential research advisors if desired. Try your best! It’ll be a lot of work but it will pay off.
 
 An additional anecdotal warning: log into your application portals well in advance of deadlines. The UT Austin graduate school application is very convoluted. First, you must submit a preliminary form which takes 2-3 business days to be approved, after which you are given access to the true application portal. Then, you must submit your application fee and wait up ~24 hours for that to be approved. _Then_ you can finally upload your statement of purpose, transcripts, and CV---but wait, those don't process immediately either, so your application still isn't complete for a little while longer. Don't wait until the last day to submit your applications!
 
 
 ### mistakes I made
 
-These are some times I deviated from the timeline which caused a few headaches. Hopefully writing about them can save you some headaches!
+These are some times I deviated from my timeline which caused a few headaches. Hopefully writing about them can save you some headaches!
 
 1. **Waiting too long to make a good working list of PhD programs.** By the end of the summer, I had a list of 5 schools with advisors that I was super excited to apply for. My goal was to apply for 8-9 schools total, but I didn’t put much effort into finishing out that list until mid November. A few schools I added to my list in November were rushed and not the best choices for me. If I had taken more time to contemplate, I would have come up with a better list.
    
