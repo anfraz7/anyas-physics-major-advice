@@ -23,7 +23,7 @@ Some professors have tabs for interested students on their research websites. If
 
 ### when in the application process to email professors
 
-If your goal is to establish a connection with a professor, then you’ll have the best chance of getting a genuine response if you email in the summer. The people I know who did this got results ranging from no response to multiple Zoom meetings expressing sincere interest and a near-guaranteed acceptance into the school (rare). If you follow this route, make sure to send follow up emails later in the fall after you’ve submitted your application. 
+You’ll have the best chance of getting a genuine response if you email in the summer. The people I know who did this got results ranging from no response to multiple Zoom meetings expressing sincere interest and a near-guaranteed acceptance into the school (rare). If you follow this route, make sure to send follow up emails later in the fall after you’ve submitted your application. 
 
 On the other hand, I had professors that I emailed two days before submitting my applicating and even the day after submitting my application. In those cases, I was just trying to get my name on their radar and show the professors that I was very interested in their research. I was admitted by some of these professors, but full transparency I have no clue how much the emails helped.
 
@@ -37,6 +37,8 @@ Two items I've heard it's good to include:
 - **Mention if you are applying to federal funding like the NSF GRFP**. If you end up winning that funding, you will become a free student.
 
 ### example email
+
+(Edit: I want to reiterate to be super clear that I truly didn't put a whole lot of effort into emailing professors so I don't want to pretend that I know a perfect formula for an example email. I'm mostly sharing this email because I know from experience that it can be really difficult to get words down on the page when you're kind of nervous to reach out to this super cool professor, so feel free to use my example email as a starting point then make it your own :) )
 
 _To a professor who requested all interested students email her. I emailed her seven days before the deadline. She responded saying I looked like a competitive applicant and she would read my application. I got an interview offer from her and was ultimately waitlisted._
 
