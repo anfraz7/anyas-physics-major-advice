@@ -24,6 +24,8 @@ While pursuing my B.S. in Physics, I have done interdisciplinary research in Mat
 
 Here is a list of the programs I applied for:
 
+(Edit: updated to remove school names, I came back and read this and decided that specificity didn't add anything lol)
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px;">
 <div>
 
@@ -50,7 +52,7 @@ Here is a list of the programs I applied for:
 <div style="border: 2px solid #7a5b5b; background: #f7f2f2; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
 <li><strong>Unnamed School #5</strong> Applied Physics</li>
-<li><strong>Unnamed School #6</strong> Physics, Quantum Engineering</li>
+<li><strong>Unnamed School #6</strong> Physics, Quantum Science & Engineering</li>
 <li><strong>Unnamed School #7</strong> Materials Science</li>
 </ul>
 </div>
