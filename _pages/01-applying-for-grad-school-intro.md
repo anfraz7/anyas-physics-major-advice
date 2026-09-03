@@ -33,25 +33,25 @@ Here is a list of the programs I applied for:
 <div style="border: 2px solid #5b8a6f; background: #f2f7f4; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
 <li><strong>UC Berkeley</strong> Materials Science</li>
-<li><strong>Penn State</strong> Materials Science</li>
-<li><strong>UT Austin</strong> Physics</li>
-<li><strong>Rutgers</strong> Physics</li>
+<li><strong>Unnamed School #1</strong> Materials Science</li>
+<li><strong>Unnamed School #2</strong> Physics</li>
+<li><strong>Unnamed School #3</strong> Physics</li>
 </ul>
 </div>
 
 <em>Waitlisted</em>
 <div style="border: 2px solid #8a7a5b; background: #f7f5f0; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
-<li><strong>Yale</strong> Applied Physics</li>
+<li><strong>Unnamed School #4</strong> Applied Physics</li>
 </ul>
 </div>
 
 <em>Rejected</em>
 <div style="border: 2px solid #7a5b5b; background: #f7f2f2; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
-<li><strong>Harvard</strong> Applied Physics</li>
-<li><strong>UChicago</strong> Physics, Quantum Engineering</li>
-<li><strong>Duke</strong> Materials Science</li>
+<li><strong>Unnamed School #5</strong> Applied Physics</li>
+<li><strong>Unnamed School #6</strong> Physics, Quantum Engineering</li>
+<li><strong>Unnamed School #7</strong> Materials Science</li>
 </ul>
 </div>
 
@@ -75,8 +75,8 @@ Here is a list of the programs I applied for:
 <em>Admitted</em>
 <div style="border: 2px solid #5b8a6f; background: #f2f7f4; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
-<li><strong>University of Cambridge</strong> Materials Science</li>
-<li><strong>University of Chicago</strong> Molecular Engineering <em>(From PhD application)</em></li>
+<li><strong>University of Cambridge*</strong> Materials Science</li>
+<li><strong>Unnamed School #6</strong> Molecular Engineering <em>(From PhD application)</em></li>
 </ul>
 </div>
 
