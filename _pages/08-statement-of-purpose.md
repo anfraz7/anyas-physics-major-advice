@@ -60,7 +60,7 @@ The SOP is the time to…
 
 **what research groups draw your interest at this school?**
 
-You should always list at least two research groups that you would be interested in joining. For many disciplines, it’s beneficial to list many more than two. My understanding is that once you get through the initial round of application screening, your application will be sent to the professors that you list and it’s in their hands to choose who they want to admit. It’s to your benefit not to put your eggs all in one basket unless you know you have an almost certain in with a professor (eg. you have worked with them in the past).
+You should always try to list at least two research groups that you would be interested in joining. For many disciplines, it’s beneficial to list many more than two. My understanding is that once you get through the initial round of application screening, your application will be sent to the professors that you list and it’s in their hands to choose who they want to admit. It’s to your benefit not to put your eggs all in one basket unless you know you have an almost certain in with a professor (eg. you have worked with them in the past).
 
 It’s important to show why _you_ find a research group’s work interesting, rather than just summarizing what that group does. I found it helpful to connect my interest in potential groups to aspects of my research and academic history. For some schools, I connected my mixed computational and experimental background to my appreciation for computational research groups that collaborate extensively with experimentalists. For others I mentioned a seminar series that I had attended while doing an REU, and how it piqued my interest in excitonic materials.
 
