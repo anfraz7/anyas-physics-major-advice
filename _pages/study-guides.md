@@ -39,7 +39,7 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 **institution and course number:** UNC Chapel Hill, PHYS 441  
 **textbook:** Schroeder, _An Introduction to Thermal Physics_  
 **made:** Fall 2025  
-**notes:** This covers most of the course but it might not cover all, I don't remember for sure.
+**notes:** This covers most of the course but it might not cover all, I don't remember for sure. Also tbh thermal was not my best class, so this isn't my most cohesive study guide.
 
 [study guide](https://drive.google.com/file/d/1yu0p2eOGzodHng2XsOEySZtQOb9v6deF/view?usp=drive_link)
 
