@@ -57,12 +57,9 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 **institution and course number:** UNC Chapel Hill, PHYS 311  
 **textbook:** Griffiths, _Introduction to Quantum Mechanics_  
 **made:** Spring 2025, course taken Fall 2023  
+**notes:** I stopped somewhere in the middle or end of chapter 5. The scanning quality on this one is quite poor perhaps I will rescan it one day.
 
-[chapter 1]  
-[chapter 2]  
-[chapter 3]  
-[chapter 4]  
-[chapter 5]  
+[study guide](https://drive.google.com/file/d/1BOY71pmwWTRPbk89iGll6IObAoK3o33W/view?usp=drive_link) 
 
 
 **course name:** Applications of Quantum Mechanics (Quantum II)  
