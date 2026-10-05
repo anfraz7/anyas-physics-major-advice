@@ -13,8 +13,9 @@
         {% if page.next %}
             <link rel="next" href="{{site.baseurl}}{{page.next.url}}" />
         {% endif %}
-        <script data-goatcounter="https://anfraz.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+       <script data-goatcounter="https://anfraz.goatcounter.com/count"
+       data-goatcounter-settings='{"no_onload": true}'
+       async src="//gc.zgo.at/count.js"></script>
     </head>
     <body>
         <div class="book">
@@ -59,6 +60,13 @@
             var gitbook = gitbook || [];
             gitbook.push(function() {
                 gitbook.page.hasChanged({%- include metadata-post.json.tpl -%});
+                (function gcCount() {
+                    if (window.goatcounter && window.goatcounter.count) {
+                        goatcounter.count({path: location.pathname});
+                    } else {
+                        setTimeout(gcCount, 100);
+                    }
+                })();
             });
             </script>
         </div>
