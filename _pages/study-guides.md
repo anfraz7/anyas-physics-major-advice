@@ -8,7 +8,7 @@ layout: post
 
 I have been developing my library of study guides since high school. These range from several-page outlines of classes (older study guides) to many-page course notes (newer study guides). I share them here to help others in their own studies.
 
-These study guides are raw and unpolished, meant to help me study and share with my friends. I try to make them comprehensive, but they are not always so. Please don't take them as a substitute for your textbook!  
+These study guides are raw and unpolished, meant to help me study and share with my friends. I try to make them comprehensive, but they are not always so. Please don't assume they are!  
 
 Some professors allow entirely open-book tests. I ask that you not print these study guides out for exams. I have no way to enforce my request, but I ask for your cooperation! My goal in sharing my study guides is to help people gain a more in-depth or differently-structured understanding of the material they cover, not to encourage others to cut corners when preparing for an exam.
 
@@ -66,7 +66,8 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 **institution and course number:** UNC Chapel Hill, PHYS 521  
 **textbook:** Griffiths, _Introduction to Quantum Mechanics_  
 **made:** Fall 2024  
-**notes:** I believe I skipped chapter 10.
+**notes:** I believe I skipped chapter 10.  
+**erratum:** On page 3, the total fine structure splitting correction to E due to spin-orbit coupling should have an n^3 in the denominator of the first term rather than n^2.
 
 [full study guide](https://drive.google.com/file/d/1hgIfKOzyVH0v3WTbvLLAPSBQgpJrWtMj/view?usp=drive_link)
 
